@@ -1,0 +1,27 @@
+Rojashree P,22,Female,499  Main Road ,TamilNadu,9344788035,rojarojashree1807@email.com
+Pravinkumar M,22 Male,536 Thendral Nagar,TamilNadu, 7397546648,pravinkumar.m123@gmail.com
+Larel, 17, Female, 143 Ganga Nagar, Pune, 9876543210 , laurel@email.com 
+Annalise Keating A, 17, Female, 143 Ganga Nagar, Mumbai,  9876543460 , Keating@email.com
+Harry, 17, Male, 143 Ganga Nagar, Chennai, 9876543210 , potter@email.com  
+Gabrial, 17, Male, 143 Ganga Nagar, Kerala, 9876543210 , gabrial9@email.com 
+Priyanka Sharma H, 17, Female,  890 Red Fort Colony, Bhopal, 3210987654, priyanka.sharma@email.com
+Riya Singh G, 18, Female,  987 Gateway Apartments, Chandigarh, 1098765432, riya.singh@email.com
+Karan D, 16, Male,  654 Marine Drive, Mumbai, 9876543210 , karan.d@email.com
+Deepika A, 17, Female,  210 Ganges Road, Kolkata, 8765432109, deepika.h@email.com
+Kumar P, 17, Male, 143 Ganga Nagar, Chennai,  9876543210 , kumar@email.com
+Karan D, 16, Male, 654 Marine Drive, Mumbai, 9876543210 , karan.d@email.com
+Priya Patel R, 15, Female, 456 Gandhi Road, Mumbai,  8765432109, priya.patel@email.com
+Ankit Sharma N, 17, Male,  789 Yamuna Vihar, Kolkata, 7654321098, ankit.sharma@email.com
+Arjun Patel I, 15, Male,123 Lotus Nagar, Surat, 8765432109, arjun.patel@email.com
+Nisha Rao B, 16, Female,  456 Rose Garden, Lucknow, 7654321098, nisha.rao@email.com
+Rohit Mehta W, 17, Male,  789 Himalaya Heights, Dehradun, 6543210987, rohit.mehta@email.com
+Aarti Reddy M, 14, Female, 321 Nandi Hills, Bengaluru, 6543210987, aarti.reddy@email.com
+Suresh Verma Y, 16, Male, 567 Lotus Avenue, Hyderabad,  5432109876, suresh.verma@email.com
+James, 17, Male,  143 Ganga Nagar, Chennai, 9876543210 , bond007@email.com
+Kavita Singh S, 17, Female, 890 Taj Mahal Road, Agra, 4321098765, kavita.singh@email.com
+Vikram Desai S, 15, Male,  432 Charminar Street, Ahmedabad,  3210987654, vikram.desai@email.com
+Meera Patel N, 18, Female,  987 Red Fort Apartments, Jaipur, 2109876543, meera.patel@email.com
+Rahul Sharma E, 16, Male,  654 Gateway Colony, Pune, 1098765432, rahul.sharma@email.com
+Mohan K , 15, Male, 432 Charminar Street, Indore, 2109876543, mohan.g@email.com
+Ananya Das L, 17, Female,  210 Victoria Road, Chennai,  9876543210, ananya.das@email.com
+Shruti Nair O, 14, Female, 321 Coconut Avenue, Kochi, 5432109876, shruti.nair@email.com
